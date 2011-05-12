@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="trunk/src"/>
+	<classpathentry kind="src" path="trunk/test"/>
+	<classpathentry kind="lib" path="trunk/dist/CompGraficaProject.jar"/>
+	<classpathentry kind="lib" path="trunk/dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="trunk/dist/lib/beansbinding-1.2.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="trunk/build/classes"/>
+</classpath>
